@@ -27,7 +27,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "alexspi\\Swaggervel\\SwaggervelServiceProvider"
+                "Appointer\\Swaggervel\\SwaggervelServiceProvider"
             ]
         }
     }
