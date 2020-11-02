@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-0": {
-            "alexspi\\Swaggervel": "src/"
+            "Appointer\\Swaggervel": "src/"
         }
     },
     "extra": {
